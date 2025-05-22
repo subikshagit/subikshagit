@@ -42,7 +42,9 @@ Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast explo
 
 ## ⚡ Fun fact:
 
-I can spend hours experimenting with mood detection models, dreaming up ideas like *NeuroLens* 🧠✨ and *facetAi* 📸🔍. I believe that tech can heal, help, and uplift — and I'm here to prove it 💪
+I can spend hours experimenting with mood detection models, dreaming up ideas like *NeuroLens* 🧠✨ and *facetAi* 📸🔍. I believe that tech can heal, help, and uplift — and I'm here to prove it!Not your average techie. I build with soul and ship with purpose. 💯💖
+
+ 💪
 
 ---
 
