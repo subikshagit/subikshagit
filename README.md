@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Subiksha (@subikshagit)!
 
-Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast exploring the intersections of **AI, mental health, and digital well-being**. I love turning innovative ideas into impactful projects.
+Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast exploring the intersections of **AI,I love turning innovative ideas into impactful projects.
 
 
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast explo
 
 ## 💞️ I’m looking to collaborate on:
 
-* 💡 AI-based digital well-being tools (like *MoodBuddy*)
+* 💡 AI-based digital well-being tools 
 * 🧩 Open-source ML/DL projects
 * 🌍 Student-friendly educational tech
 
@@ -40,9 +40,7 @@ Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast explo
 
 ## 😄 Pronouns: She/Her
 
-## ⚡ Fun fact:
 
-I can spend hours experimenting with mood detection models, dreaming up ideas like *NeuroLens* 🧠✨ and *facetAi* 📸🔍. I believe that tech can heal, help, and uplift — and I'm here to prove it!Not your average techie. I build with soul and ship with purpose. 💯💖
 
  💪
 
